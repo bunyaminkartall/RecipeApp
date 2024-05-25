@@ -1,0 +1,39 @@
+Yemek1
+Malzemeler: Tuz, Yağ, Et
+Tarif: Tüm malzemeleri karıştırın ve kızartın.
+
+Yemek2
+Malzemeler: Tuz, Yağ, Sebze
+Tarif: Sebzeleri doğrayın, yağda kızartın ve tuz ekleyin.
+
+Yemek3
+Malzemeler: Un, Su, Tuz
+Tarif: Un ve suyu karıştırarak hamur yapın, tuz ekleyip pişirin.
+
+Yemek4
+Malzemeler: Patates, Sogan, Zeytinyağı
+Tarif: Patates ve soğanları doğrayın, zeytinyağında kızartın.
+
+Yemek5
+Malzemeler: Pirinç, Su, Tavuk
+Tarif: Pirinci suyla haşlayın, tavukla karıştırarak pişirin.
+
+Yemek6
+Malzemeler: Makarna, Domates Sosu, Peynir
+Tarif: Makarnayı haşlayın, domates sosu ve peynir ekleyerek karıştırın.
+
+Yemek7
+Malzemeler: Balık, Limon, Zeytinyağı
+Tarif: Balığı limon ve zeytinyağı ile marine edip ızgarada pişirin.
+
+Yemek8
+Malzemeler: Mercimek, Soğan, Havuç
+Tarif: Mercimeği haşlayın, soğan ve havuç ekleyerek pişirin.
+
+Yemek9
+Malzemeler: Yumurta, Sosis, Biber
+Tarif: Yumurtaları çırpın, sosis ve biber ekleyip tavada pişirin.
+
+Yemek10
+Malzemeler: Mantar, Krema, Tuz
+Tarif: Mantarları kremayla karıştırarak pişirin, tuz ekleyin.

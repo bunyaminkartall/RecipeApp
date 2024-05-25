@@ -1,0 +1,69 @@
+
+Ingredients: onion, carrot,celery, tomato, cream
+Tomato Soup
+calorie:32
+Nutritional Values:Protein:0.91 , Fat:1,1 , Carbs:4,5
+Degree of difficulty:3.0
+Recipe:First, let's puree the tomatoes. Let's roast the carrots and onions in the pot. Then let's add the puree and cook it a little. Finally, let's add water and put it in the blender. Enjoy your meal.
+-----------------------------------------------------
+
+Ingredients: spring onion, potato, cream
+Potato Soup
+calorie:31
+Nutritional Values:Protein:2,15, Fat:2,11 , Carbs:13,70
+Degree of difficulty:1.0
+Recipe:Let's fry the onion, potatoes and garlic in the pot. When everything is roasted, let's add the water and cook it for a while. When the vegetables are cooked, let's put them in the blender. Enjoy your meal.
+-----------------------------------------------------
+
+Ingredients: garlic, onion, carrot, celery, ginger, chicken, couscous
+Chicken Soup
+calorie:55
+Nutritional Values:Protein:4,2 , Fat:1,96 , Carbs:3,42
+Degree of difficulty:7.5
+Recipe:First, let's boil the chicken and the remaining ingredients in the pot. After it is fully cooked, take the ingredients out of the water and thinly slice the chicken aside. Meanwhile, let's add couscous to the water and cook it. Finally, let's serve it with the chicken we cut thinly. Enjoy your meal.
+---------------------------------------------------------------
+
+Ingredients: broccoli, cheddar cheese, onion, carrot, chicken broth
+Broccoli and Cheddar Soup
+calorie: 120
+Nutritional Values: Protein: 8.5, Fat: 6.2, Carbs: 10.3
+Degree of difficulty: 4.0
+Recipe: Start by sautéing onions and carrots, add broccoli and chicken broth, let it simmer. Blend the mixture and stir in cheddar cheese until melted. Serve hot. Enjoy your meal.
+---------------------------------------------------------------------------------------------------------------
+
+Ingredients: lentils, onion, carrot, celery, garlic, vegetable broth
+Lentil Soup
+calorie: 150
+Nutritional Values: Protein: 9.8, Fat: 2.5, Carbs: 25.6
+Degree of difficulty: 2.5
+Recipe: Sauté onions, carrots, celery, and garlic. Add lentils and vegetable broth, simmer until lentils are tender. Season to taste. Serve warm. Enjoy your meal.
+
+---------------------------------------------------------------------------------------------------------------
+Ingredients: chicken breast, lemon, garlic, rosemary, thyme, olive oil
+Grilled Lemon Herb Chicken Soup
+calorie: 150
+Nutritional Values: Protein: 25.2, Fat: 6.0, Carbs: 1.8
+Degree of difficulty: 4.5
+Recipe: Marinate chicken in a mixture of lemon, garlic, rosemary, thyme, and olive oil. Grill until fully cooked. Serve with a side of vegetables. Enjoy your meal.
+
+-----------------------------------------------------------------------------------------
+Ingredients: noodles, mixed vegetables (bell peppers, carrots, broccoli), soy sauce, ginger, garli
+Vegetable Stir-Fried Ramen
+calorie: 230
+Nutritional Values: Protein: 6.7, Fat: 3.5, Carbs: 45.2
+Degree of difficulty: 3.0
+Recipe: Cook noodles, stir-fry mixed vegetables in soy sauce, ginger, and garlic. Toss with noodles until well combined. Serve hot. Enjoy your meal.
+
+----------------------------------------------------------------------------------------
+Ingredients: lamb, garlic, onion, tomato, rice, hot pepper
+Beyran Soup
+calorie:320
+Nutritional Values:Protein: 8.4, Fat: 4.5, Carbs: 23.2
+Degree of difficulty: 9.0
+Recipe: Add lamb neck and water. Bring to a boil and let it simmer for 10 minutes.Remove the lamb neck and set aside. Discard the water.In the same pot, add lamb fat and garlic. Cook until fragrant.Add hot pepper flakes and sweet ground chili. Cook for 1 minute.Add rice and stir well.Add 2 liters of water and bring to a boil.Add the lamb neck back to the pot.Reduce heat to low and let it simmer for 20 minutes.Add salt to taste.Enjoy your meal.
+-----------------------------------------------------
+
+
+
+
+
